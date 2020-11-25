@@ -1,0 +1,14 @@
+body { 
+    color: red;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 20px;
+}
+.blackborder {
+    border: 2px solid black;
+}
+#achtergrond {
+    background-color: rgb(20, 2, 11);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-size: 48px;
+}
